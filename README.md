@@ -20,6 +20,19 @@ Let's discuss your project.
 
 ---
 
+<!-- screenshots -->
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>Home</b><br><br><img src="screenshots/1-home.png" alt="Home" width="240"></td>
+    <td align="center"><b>Cart & Checkout</b><br><br><img src="screenshots/2-cart.png" alt="Cart & Checkout" width="240"></td>
+    <td align="center"><b>Orders</b><br><br><img src="screenshots/3-orders.png" alt="Orders" width="240"></td>
+  </tr>
+</table>
+
+---
+
 ## Medicine Delivery App Development Services
 
 We develop custom pharmacy applications and medicine delivery software designed to connect customers, pharmacies, administrators, and delivery partners.
@@ -305,14 +318,3 @@ This repository is a service and portfolio showcase for medicine delivery app de
 The features described above represent potential development capabilities and solution modules. They should not be interpreted as confirmation that every feature is implemented in a ready-to-use application.
 
 **Proprietary Notice:** This repository is a project showcase. No permission to redistribute, reuse, or commercially exploit proprietary source code, branding, or materials is granted unless separately authorized in writing.
-
-<!-- screenshots -->
-## Screenshots
-
-<table>
-  <tr>
-    <td align="center"><b>Home</b><br><br><img src="screenshots/1-home.png" alt="Home" width="240"></td>
-    <td align="center"><b>Cart & Checkout</b><br><br><img src="screenshots/2-cart.png" alt="Cart & Checkout" width="240"></td>
-    <td align="center"><b>Orders</b><br><br><img src="screenshots/3-orders.png" alt="Orders" width="240"></td>
-  </tr>
-</table>
